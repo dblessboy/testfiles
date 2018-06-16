@@ -1,0 +1,9 @@
+di,00,p2
+di,00,px
+di,00,px
+de,11,px
+de,11,p2
+de,11,p3
+go,22,p3
+gi,33,p3
+gi,33,px
