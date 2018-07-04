@@ -1,1 +1,1 @@
-print ("hello divine")
+print ('u are wellcome Mr' + str(input()))
